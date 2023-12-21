@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/GetYourFoods/static/css/main.a6894145.css",
+    "main.js": "/GetYourFoods/static/js/main.e65957d8.js",
+    "static/js/787.8d0404a3.chunk.js": "/GetYourFoods/static/js/787.8d0404a3.chunk.js",
+    "index.html": "/GetYourFoods/index.html",
+    "main.a6894145.css.map": "/GetYourFoods/static/css/main.a6894145.css.map",
+    "main.e65957d8.js.map": "/GetYourFoods/static/js/main.e65957d8.js.map",
+    "787.8d0404a3.chunk.js.map": "/GetYourFoods/static/js/787.8d0404a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a6894145.css",
+    "static/js/main.e65957d8.js"
+  ]
+}
